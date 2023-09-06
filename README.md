@@ -22,6 +22,4 @@ A JavaScript console app for generating QR codes as ASCII art.
 - [qrcode-terminal](https://www.npmjs.com/package/qrcode-terminal)
 - [readline](https://nodejs.org/api/readline.html)
 
-## License
-MIT License
 ```
