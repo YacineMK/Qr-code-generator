@@ -7,7 +7,7 @@ A JavaScript console app for generating QR codes as ASCII art.
 
 ## Usage
 1. Install dependencies:
-   ```
+   ```bash
    npm install qrcode-terminal readline
    ```
 
@@ -25,5 +25,3 @@ A JavaScript console app for generating QR codes as ASCII art.
 ## License
 MIT License
 ```
-
-You can copy and paste this content into your README file.
