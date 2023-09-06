@@ -9,10 +9,10 @@ A JavaScript console app for generating QR codes as ASCII art.
 1. Install dependencies:
    ```bash
    npm install qrcode-terminal readline
-   ```
+   ``` 
 
 2. Run the app:
-   ```bash
+   ```
    node index.js
    ```
 
