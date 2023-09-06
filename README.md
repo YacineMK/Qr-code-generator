@@ -7,7 +7,7 @@ A JavaScript console app for generating QR codes as ASCII art.
 
 ## Usage
 1. Install dependencies:
-   ```bash
+   ```
    npm install qrcode-terminal readline
    ```
 
