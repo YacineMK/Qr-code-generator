@@ -11,9 +11,10 @@ A JavaScript console app for generating QR codes as ASCII art.
    npm install qrcode-terminal readline
    ```
 
+
 2. Run the app:
    ```bash
-   node qr-code-generator.js
+   node index.js
    ```
 
 3. Enter text and view the generated QR code in the console.
